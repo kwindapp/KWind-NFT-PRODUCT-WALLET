@@ -10,12 +10,16 @@ A 12-word seed phrase is generated to create a secure, non-custodial wallet. and
 
 Users are guided to back up this phrase securely.
 
+!!
 2.⁠ ⁠Main View – NFT Gallery
 After setup, the main screen shows:
 
 NFT Display: Visual gallery of NFTs owned by the user (grid or card layout).
 
 Tap any NFT to view its metadata, history, and transfer/share options.
+
+!!
+
 
 3.⁠ ⁠Secondary View – Tokens & Transactions
 Switchable from the main view or accessible via a bottom tab/menu.
