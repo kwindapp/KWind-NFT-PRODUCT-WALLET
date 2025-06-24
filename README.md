@@ -1,41 +1,112 @@
-# KWind-NFT-PRODUCT-WALLET
-NFT Wallet Vue.js Quasar - Feature Definition
+# 🪙 NFT Wallet UI
 
-1.⁠ ⁠Wallet Initialization
-Tap on “Wallet”: Users start by tapping the Wallet section/tab in the app.
+A reusable UI kit for NFT wallet features using **Vue 3 + Quasar**.  
+Includes wallet generation, token management, and NFT gallery components.
 
-Seed Phrase Generation:
+---
 
-A 12-word seed phrase is generated to create a secure, non-custodial wallet. and Restore
+## 📦 Project Info
 
-Users are guided to back up this phrase securely.
+- **Name:** nft-wallet-ui
+- **Version:** 0.0.1
+- **Author:** Zeeshan Riaz <zshnriaz@gmail.com>
+- **Frameworks:** Vue 3, Quasar CLI (Vite)
+- **Blockchain Libraries:** Ethers.js, BIP39
+- **License:** MIT
 
-!!
-2.⁠ ⁠Main View – NFT Gallery
-After setup, the main screen shows:
+---
 
-NFT Display: Visual gallery of NFTs owned by the user (grid or card layout).
+## 🚀 Features
 
-Tap any NFT to view its metadata, history, and transfer/share options.
+✅ Wallet Initialization  
+✅ 12-word Seed Phrase Generation  
+✅ Wallet Address Display  
+✅ Quasar UI Components  
+✅ ERC-721 / ERC-1155 ready structure  
+✅ Designed for future integration into full NFT apps
 
-!!
+---
 
+## 🛠 Folder Structure
 
-3.⁠ ⁠Secondary View – Tokens & Transactions
-Switchable from the main view or accessible via a bottom tab/menu.
+```
+src/
+├── assets/          # Static assets
+├── boot/            # Quasar boot files
+├── components/      # Reusable Vue components
+├── composables/     # Composable logic (e.g., useWallet.js)
+├── css/             # Custom styles
+├── layouts/         # Page layouts (e.g., MainLayout.vue)
+├── pages/           # Main views (e.g., WalletPage.vue)
+├── router/          # Vue Router config
+├── stores/          # Pinia store modules
+├── App.vue          # Root component
+├── main.js          # App entry point
+```
 
-Displays:
+---
 
-Token Balances: List of cryptocurrencies held in the wallet (POLYGON).
+## 🔧 Tech Stack
 
-Send / Receive:
+- [Vue 3](https://vuejs.org/)
+- [Quasar Framework](https://quasar.dev/)
+- [Vite](https://vitejs.dev/)
+- [Pinia](https://pinia.vuejs.org/)
+- [Ethers.js v6](https://docs.ethers.org/v6/)
+- [bip39](https://github.com/bitcoinjs/bip39)
 
-Users can receive tokens via QR code or wallet address.
+---
 
-Users can send tokens by entering recipient address and amount.
+## 📦 Getting Started
 
-Transaction History: Chronological list of past sends/receives.
-similar view like Metamask NFT view (example)
+```bash
+# Install dependencies
+npm install
 
-![IMG_2164](https://github.com/user-attachments/assets/9446ef54-dd2c-47e4-9a3d-7f49e77227c9)
+# Run the development server
+npm run dev
+```
 
+> Requires Node.js **v18+** and npm **v6.13.4+**
+
+---
+
+## 🔨 Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 🧪 Code Quality
+
+```bash
+# Lint code using ESLint
+npm run lint
+
+# Format files using Prettier
+npm run format
+```
+
+---
+
+## 🌐 Local Preview
+
+Once running, open:
+
+```
+http://localhost:9000/#/
+```
+
+You’ll see a working wallet setup screen with:
+
+- Seed phrase generation
+- Wallet address display
+- Future support for NFTs and token transactions
+
+---
+
+## 📄 License
+
+MIT License © 2025 [Zeeshan Riaz](mailto:zshnriaz@gmail.com)
