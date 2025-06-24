@@ -2,7 +2,7 @@
 UI
 ![IMG_2189](https://github.com/user-attachments/assets/0786e6b5-b327-4def-9087-2fd982d6bd58)
 <img width="1254" alt="Screenshot 2025-06-22 at 21 59 44" src="https://github.com/user-attachments/assets/12cb829a-8ae3-4726-9af8-dd50c27da480" />
-![IMG_2189](https://github.com/user-attachments/assets/918a1dbe-6b59-4cc0-88e0-1ad91ab61dcb)
+
 
 
 
