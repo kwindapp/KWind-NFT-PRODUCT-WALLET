@@ -7,12 +7,7 @@ Includes wallet generation, token management, and NFT gallery components.
 
 ## 📦 Project Info
 
-- **Name:** nft-wallet-ui
-- **Version:** 0.0.1
-- **Author:** Zeeshan Riaz <zshnriaz@gmail.com>
-- **Frameworks:** Vue 3, Quasar CLI (Vite)
-- **Blockchain Libraries:** Ethers.js, BIP39
-- **License:** MIT
+
 
 ---
 
