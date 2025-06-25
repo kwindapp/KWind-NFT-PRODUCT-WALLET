@@ -25,6 +25,8 @@ Tap on “Wallet”: Users start by tapping the Wallet section/tab in the app.
 
 Seed Phrase Generation:
 
+12 word seed restore
+
 A 12-word seed phrase is generated to create a secure, non-custodial wallet.
 
 Users are guided to back up this phrase securely.
