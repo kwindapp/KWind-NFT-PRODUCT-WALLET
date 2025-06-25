@@ -1,4 +1,4 @@
-1.⁠ ⁠NFT Wallet (Standalone - GitHub Repo)
+1.⁠ ⁠NFT Wallet (Standalone - GitHub Repo) Plygon Product NFTs https://www.heliumsmartworld.com/
 
 🔧 Tech Stack
 Frontend: Vue 3 + Quasar Framework
