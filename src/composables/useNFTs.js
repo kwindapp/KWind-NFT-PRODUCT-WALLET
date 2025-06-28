@@ -1,7 +1,7 @@
 import { Alchemy, Network } from 'alchemy-sdk';
 
 const settings = {
-  apiKey: 'YOUR_ALCHEMY_API_KEY', // ← Replace with your Alchemy API key
+  apiKey: 'PtsaAauARrLCJmz1UbUoLUI6NtKEOnvL', // ← Replace with your Alchemy API key
   network: Network.MATIC_MAINNET, // Polygon Mainnet (MATIC)
 };
 
